@@ -1,13 +1,3 @@
 <template>
-  
+  <footer class="footer">made by hello</footer>
 </template>
-
-<script>
-export default {
-
-}
-</script>
-
-<style>
-
-</style>
