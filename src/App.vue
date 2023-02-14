@@ -37,14 +37,7 @@
 	
 	
 <style lang="scss">
-@import "./assets/style/_reset";
+@import "./assets/style/reset";
+@import "./assets/style/mixins";
 
-$color: #f0f0f0;
-.list {
-  background: $color;
- 
-  &__text {
-    font-weight: bold;
-  }
-}
 </style>
